@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90cd9762-c8d2-416c-bd75-963744587562" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="工商小能手网站" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WCCPzJ8duR4HkkRrNBtW0eHmtl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../计算机设计大赛等-甘霖哥 图谱/计算机/2020-79172-参赛总文件夹/2020-79172-02素材与源码/项目源码/Salarymanage" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_Projects\WebApplication\工商小能手网站\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A\工商小能手网站\main" />
+      <recent name="D:\Python_Projects\WebApplication\工商小能手网站\static\css" />
+      <recent name="D:\Python_Projects\WebApplication\工商小能手网站\static\js" />
+      <recent name="D:\Python_Projects\WebApplication\工商小能手网站\templates" />
+      <recent name="D:\Python_Projects\WebApplication\工商小能手网站\static\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.工商小能手网站">
+    <configuration name="show_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="工商小能手网站" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/大创/virtual01" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/大创/virtual01/show_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="工商小能手网站" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/大创/virtual" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/大创/virtual/show_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="工商小能手网站" type="Python.DjangoServer" factoryName="Django server">
+      <module name="工商小能手网站" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="工商小能手网站.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90cd9762-c8d2-416c-bd75-963744587562" name="Default Changelist" comment="" />
+      <created>1578644169447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578644169447</updated>
+      <workItem from="1578644187055" duration="3172000" />
+      <workItem from="1582080626758" duration="16132000" />
+      <workItem from="1582159059471" duration="3213000" />
+      <workItem from="1582511523035" duration="4613000" />
+      <workItem from="1582594012244" duration="601000" />
+      <workItem from="1582791365609" duration="245000" />
+      <workItem from="1584960040183" duration="10910000" />
+      <workItem from="1585095762124" duration="6386000" />
+      <workItem from="1585204699389" duration="13674000" />
+      <workItem from="1585273447161" duration="1772000" />
+      <workItem from="1585356854791" duration="12200000" />
+      <workItem from="1585376832159" duration="18607000" />
+      <workItem from="1585396933544" duration="764000" />
+      <workItem from="1585462647628" duration="9393000" />
+      <workItem from="1585476280059" duration="6940000" />
+      <workItem from="1585622774750" duration="1309000" />
+      <workItem from="1592535183456" duration="2824000" />
+      <workItem from="1592920751556" duration="587000" />
+      <workItem from="1593392955378" duration="89000" />
+      <workItem from="1593396175213" duration="335000" />
+      <workItem from="1651314112439" duration="3243000" />
+      <workItem from="1651636810451" duration="1347000" />
+      <workItem from="1651818066446" duration="805000" />
+      <workItem from="1651850622472" duration="1314000" />
+      <workItem from="1652428459833" duration="1442000" />
+      <workItem from="1652512547043" duration="3491000" />
+      <workItem from="1652616488683" duration="1240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="45" key="#工商小能手网站" timestamp="1652428517967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="45" key="#工商小能手网站/0.0.1536.824@0.0.1536.824" timestamp="1652428517967" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1652701957436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1652701957435" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1652435250717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652435250717" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1652435250716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652435250716" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1652435250716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652435250716" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1652435250716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652435250716" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1652435250717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652435250717" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1652435250717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1652435250717" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1652435250717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1652435250717" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1652435250717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1652435250717" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1652428865535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1652428865535" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1652692093109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1652692093109" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/static/js/kg.js</url>
+          <line>245</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
